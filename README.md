@@ -1,2 +1,5 @@
 # Guidance_Plan_for_Returning_Home_Python
 My Master thesis's Python code (JupyterNotebook)
+
+# 上町断層帯地震を想定した 徒歩帰宅者誘導計画に関する一考察
+## 京都大学大学院情報学研究科 修士課程社会情報学専攻  
