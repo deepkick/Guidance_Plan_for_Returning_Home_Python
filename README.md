@@ -6,4 +6,4 @@ My Master thesis's Python code (JupyterNotebook)
 本多 郁  
 令和2年2月3日  
 
-論文で作成したPythonによるシミュレーションのコードと結果ファイルの一式を公開する。
+論文内で作成したPython(JupyterNotebook)によるシミュレーションのコードと結果ファイルの一式を公開するためのレポジトリ。
