@@ -1,4 +1,4 @@
-# Guidance_Plan_for_Returning_Home_Python
+# A Study on Guidance Plan for Returning Home on foot at the Uemachi Fault Zone Earthquake  
 My Master thesis's Python code (JupyterNotebook)
 
 # 上町断層帯地震を想定した 徒歩帰宅者誘導計画に関する一考察
